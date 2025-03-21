@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telecom Devices</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Telecom Device Manufacturer</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Support</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Innovative Telecom Solutions</h2>
+        <p>Explore our latest telecom devices designed for the future.</p>
+    </section>
+
+    <section class="products">
+        <h2>Our Products</h2>
+        <div class="product-grid">
+            <div class="product">
+                <img src="device1.jpg" alt="5G Router">
+                <h3>5G Router</h3>
+                <p>High-speed 5G connectivity for home and office.</p>
+            </div>
+            <div class="product">
+                <img src="device2.jpg" alt="VoIP Phone">
+                <h3>VoIP Phone</h3>
+                <p>Crystal-clear voice communication with advanced features.</p>
+            </div>
+            <div class="product">
+                <img src="device3.jpg" alt="Fiber Optic Modem">
+                <h3>Fiber Optic Modem</h3>
+                <p>Reliable fiber-optic internet for ultra-fast speeds.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Telecom Device Manufacturer. All rights reserved.</p>
+    </footer>
+</body>
+</html>
